@@ -5,7 +5,7 @@ link la executia programului:>>>> https://repl.it/@NicolaeJitaruc/SumaMinima#mai
 
 ## 1. Scopul
 
-
+Să se afişeze toate descompunerile unei sume S într-un număr minim de monezi ale unui sistem monetar de n valori.
 
 ## 2. Descrierea algoritmului
 
